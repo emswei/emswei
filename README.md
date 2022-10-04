@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi, I'm Emmy! 
+### A little about me: 
+* Pronouns: she/her/hers
+* Senior at Evergreen Valley High School
+* Skills: Python | Java
 
 <!--
 **emswei/emswei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
